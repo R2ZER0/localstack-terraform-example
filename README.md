@@ -1,9 +1,9 @@
 # localstack-terraform-example
 Example of using terraform with Localstack (https://localstack.cloud)
 
-To get started, bring up the localstack instance with `docker-compose up`.
-
 ## Get Started
+
+To get started, open a terminal and bring up the localstack instance with `docker-compose up`.
 
 Then in another terminal you can deploy the terraform component:
 ```bash
